@@ -46,7 +46,7 @@ def friend_module(peer_id=None, user_id=None, pos=None, message_id=None):
 def info(peer_id=None,message_id=None,prefix=None):
     info = vk.users.get(user_ids=user_id)
     name = info[0]["first_name "] # ваше имя
-    botname = 'Мана | Бот ღ' # имя юзер бота
+    botname = 'Мана LP ღ' # имя юзер бота
     help_url = 'vk.cc/c2yPty' # команды юзер бота
     info_txt = f'👑Имя владельца: {name}\n🔱Название юзербота: {botname}\n\n🔅Префикс команд: {prefix}\n📜Ссылка на команды: {help_url}\n💠Ссылка на проэкт: vk.cc/c2PmP' # инфо
     message_edit(peer_id=peer_id,text=info_txt,message_id=message_id)
@@ -57,7 +57,7 @@ def ping(peer_id=None,message_id=None):
         Delta = time.time()
         ping_rounded = round(Alfa-Delta,3)
         ping = ping_rounded*-1.0
-        message_edit(peer_id=peer_id,text=f'Понг Мана | Бот ღ\nОтправлено за: {ping}с',message_id=message_id) # ответ на команду пинг
+        message_edit(peer_id=peer_id,text=f'Понг Мана LP ღ\nОтправлено за: {ping}с',message_id=message_id) # ответ на команду пинг
     except Exception as eror:
         message_edit(peer_id=peer_id, text=f'Возникла ошибка!', message_id=message_id)
 
