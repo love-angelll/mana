@@ -12,7 +12,7 @@
 После выполнения установки пакетов пропишите: <code>python3 -V</code>,результат должен быть таким:<br>![image](https://user-images.githubusercontent.com/72913549/116668015-ee74cb00-a9ad-11eb-9d06-d21aca620445.png) 
  
 Если все хорошо,то пропишите:<br><code>git clone https://github.com/love-angelll/mana</code><br> 
-Дождитесь конца установки,затем пропишите:<br><code>cd mana</code><br> 
+Дождитесь конца установки,затем пропишите: <code>cd mana</code><br> 
 Затем пропишите данную команду: <code>pip3 install vk_api</code><br> 
 После этого пропишите: <code>nano start.py</code><br>![image](https://user-images.githubusercontent.com/72913549/116669158-4c55e280-a9af-11eb-9244-7b0387704088.png)<br> 
 Редактируйте токен и айди на свой(токен VkMe: <url>vkhost.github.io</url>) <br>
