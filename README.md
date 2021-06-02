@@ -1,6 +1,6 @@
 # Мана | Бот
 Здравсвуй дорогой пользователь,это простой юзербот с некоторыми функциями для упрощения вашей жизни<br> 
-Инструкцию по командам можно найти по ссылке: <url>vk.com/@lover_kotik-instrukciya-po-komandam-ivanlp</url><br> 
+Инструкцию по командам можно найти по ссылке: <url>vk.com/@lover_kotik-cmd-mana-lp</url><br> 
 Автор: <url>vk.com/lover_kotik</url> 
  
 Установка на Ubuntu 18.04/Android Termux:<br> 
