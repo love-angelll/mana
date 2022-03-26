@@ -2,7 +2,6 @@
 Здравсвуй дорогой пользователь,это простой юзербот с некоторыми функциями для упрощения вашей жизни<br> 
 Инструкцию по командам можно найти по ссылке: <url>https://vk.com/@lover_kotik-cmd-mana-lp</url><br> 
 Автор: <url>https://vk.com/lover_kotik</url> <br>
-Группа: <url>https://vk.com/mana_bot</url>
  
 Установка на Ubuntu 18.04/Android Termux:<br> 
 <code>apt install git</code><br> 
