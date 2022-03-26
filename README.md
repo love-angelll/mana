@@ -14,7 +14,7 @@
 Дождитесь конца установки,затем пропишите: <code>cd mana</code><br> 
 Затем пропишите данную команду: <code>pip3 install vk_api</code><br> 
 После этого пропишите: <code>nano start.py</code><br>![image](https://user-images.githubusercontent.com/72913549/116669158-4c55e280-a9af-11eb-9244-7b0387704088.png)<br> 
-Редактируйте токен и айди на свой(токен VkMe: <url>vkhost.github.io</url>) <br>
+Редактируйте токен и айди на свой(токен Kate Mobile: <url>vkhost.github.io</url>) <br>
 После этого закройте файл сохранив его (Ctrl + S и Ctrl + X)<br> 
 И потом пропишите: <code>python3 start.py</code><br> 
  
