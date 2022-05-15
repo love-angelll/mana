@@ -1,7 +1,7 @@
 # Мана LP ღ
-Здравсвуй дорогой пользователь,это простой юзербот с некоторыми функциями для упрощения вашей жизни<br> 
-Инструкцию по командам можно найти по ссылке: <url>https://vk.com/@lover_kotik-cmd-mana-lp</url><br> 
-Автор: <url>https://vk.com/lover_kotik</url> <br>
+Здравсвуй дорогой пользователь,это простой юзербот с некоторыми функциями для упрощения вашей жизни<br><br> 
+Инструкцию по командам можно найти по ссылке: <url>https://vk.com/@lover_kotik-cmd-mana-lp</url><br><br> 
+Автор: <url>https://vk.com/love_angelll</url> <br>
  
 Установка на Ubuntu 18.04/Android Termux:<br> 
 <code>apt install git</code><br> 
