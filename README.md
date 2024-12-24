@@ -1,6 +1,9 @@
-# Мана LP ღ <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+# Мана LP ღ 
+
 Здравсвуй дорогой пользователь,это простой юзербот с некоторыми функциями для упрощения вашей жизни<br>
 Инструкцию по командам можно найти по ссылке: <url>https://vk.com/@lover_kotik-cmd-mana-lp</url><br>
 Автор: <url>https://vk.com/love_angelll</url> <br>
