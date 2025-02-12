@@ -13,24 +13,28 @@
 
 **мана кик** — Исключение определенного пользователя из чата.
 
-![Изображение №1](https://github.com/love-angelll/mana/tree/main/img/1.jpg)
+![Изображение №1](https://raw.githubusercontent.com/love-angelll/mana/main/img/1.jpg)
 
 **мана добавить** — Добавление пользователя в чат.
 
-![Изображение №2](https://github.com/love-angelll/mana/tree/main/img/2.jpg)
+![Изображение №2](https://raw.githubusercontent.com/love-angelll/mana/main/img/2.jpg)
 
 **мана +др** — Добавление пользователя в друзья.
 
-![Изображение №3](https://github.com/love-angelll/mana/tree/main/img/3.jpg)
+![Изображение №3](https://raw.githubusercontent.com/love-angelll/mana/main/img/3.jpg)
 
 **мана -др** — Удаление пользователя из друзей.
 
-![Изображение №4](https://github.com/love-angelll/mana/tree/main/img/4.jpg)
+![Изображение №4](https://raw.githubusercontent.com/love-angelll/mana/main/img/4.jpg)
 
 **мана +чс** — Добавление пользователя в черный список.
 
-![Изображение №5](https://github.com/love-angelll/mana/tree/main/img/5.jpg)
+![Изображение №5](https://raw.githubusercontent.com/love-angelll/mana/main/img/5.jpg)
 
 **мана -чс** — Удаление пользователя из черного списка.
 
-![Изображение №6](https://github.com/love-angelll/mana/tree/main/img/6.jpg)
+![Изображение №6](https://raw.githubusercontent.com/love-angelll/mana/main/img/6.jpg)
+
+
+
+
