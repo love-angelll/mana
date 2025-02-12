@@ -29,11 +29,11 @@
 
 **мана +чс** — Добавление пользователя в черный список.
 
-![Изображение №5](https://raw.githubusercontent.com/love-angelll/mana/main/img/5.jpg)
+![Изображение №5](https://raw.githubusercontent.com/love-angelll/mana/main/img/6.jpg)
 
 **мана -чс** — Удаление пользователя из черного списка.
 
-![Изображение №6](https://raw.githubusercontent.com/love-angelll/mana/main/img/6.jpg)
+![Изображение №6](https://raw.githubusercontent.com/love-angelll/mana/main/img/5.jpg)
 
 
 
