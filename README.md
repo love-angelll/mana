@@ -26,7 +26,7 @@
 <p>Не упусти шанс попробовать свои силы в разработке! Пиши, и мы вместе сделаем этот бот еще лучше!</p>
 
 <p>Нынешние команды можно найти по ссылке: <a href="https://vk.com/@lover_kotik-cmd-mana-lp" target="_blank">https://vk.com/@lover_kotik-cmd-mana-lp</a></p>
-<p>Автор: <a href="https://vk.com/love_angelll" target="_blank">@love_angelll</a></p>
+<p>Автор: <a href="https://vk.com/iv.frunza" target="_blank">@iv.frunza</a></p>
 
   <h2>Установка</h2>
 
