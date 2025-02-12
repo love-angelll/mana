@@ -1,3 +1,103 @@
+<!-- Новая версия -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div>
+  <h1>Мана LP ღ</h1>
+
+  <blockquote>
+    <strong>Внимание</strong><br>
+    Этот проект был разработан исключительно для обучения и понимания разработки скриптов в данной области.<br>
+    Вы можете использовать его для учебных целей, но не выдавайте его за свой проект!
+  </blockquote>
+
+  <p>Привет, дорогой пользователь! Это простой юзер-бот с рядом функций, которые помогут упростить вашу жизнь.<br>
+  Инструкцию по командам можно найти по ссылке: <a href="https://vk.com/@lover_kotik-cmd-mana-lp">Инструкция</a><br>
+  Автор: <a href="https://vk.com/love_angelll">@love_angelll</a></p>
+
+  <h2>Установка</h2>
+
+  <h3>Для Ubuntu 18.04/Android Termux:</h3>
+
+  <ol>
+    <li>Установите необходимые пакеты:
+      <pre><code>apt install git</code></pre>
+      <pre><code>apt install python3</code></pre>
+      <pre><code>apt install python3-pip</code></pre>
+    </li>
+    
+    <li>После установки проверьте версию Python:
+      <pre><code>python3 -V</code></pre>
+      Если всё установлено правильно, вы должны увидеть версию Python, как на скриншоте ниже:
+      <img src="https://user-images.githubusercontent.com/72913549/116668015-ee74cb00-a9ad-11eb-9d06-d21aca620445.png" alt="image"/>
+    </li>
+
+    <li>Клонируйте репозиторий:
+      <pre><code>git clone https://github.com/love-angelll/mana</code></pre>
+    </li>
+
+    <li>Перейдите в папку с проектом:
+      <pre><code>cd mana</code></pre>
+    </li>
+
+    <li>Установите зависимость vk_api:
+      <pre><code>pip3 install vk_api</code></pre>
+    </li>
+
+    <li>Откройте файл start.py для редактирования:
+      <pre><code>nano start.py</code></pre>
+      <img src="https://user-images.githubusercontent.com/72913549/116669158-4c55e280-a9af-11eb-9244-7b0387704088.png" alt="image"/>
+    </li>
+
+    <li>В файле замените токен и ID на свои. Токен можно получить <a href="https://oauth.vk.com/oauth/authorize?client_id=2685278&scope=1073737727&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1&slogin_h=60e14552e41d939e10.c9dba2c2184562e5c4&__q_hash=7d7f44c8392ed79ec099dfecdc851ea4">здесь</a>.</li>
+
+    <li>Сохраните изменения (Ctrl + S) и закройте файл (Ctrl + X).</li>
+
+    <li>Запустите бота:
+      <pre><code>python3 start.py</code></pre>
+    </li>
+  </ol>
+
+  <p>Поздравляю! Бот успешно запущен. Теперь перейдите в любую беседу и напишите команду "мана пинг", чтобы проверить работу.</p>
+
+  <h2>⚖️ Лицензия</h2>
+
+  <p>Перед использованием скрипта обязательно ознакомьтесь с лицензией проекта, перейдя в файл <a href="LICENSE">LICENSE</a>.</p>
+
+  <blockquote>
+    <strong>Внимание</strong><br>
+    Не прочитав лицензию, вы не снимаете с себя ответственность.
+  </blockquote>
+
+  <h2>Содействие</h2>
+
+  <p>Если у вас возникли вопросы или проблемы, не стесняйтесь обращаться. Можете писать в социальных сетях.</p>
+
+  <p>
+    <a href="https://t.me/iv_frunza">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://vk.com/iv.frunza">
+      <img src="https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK Основной"/>
+    </a>
+    <a href="https://instagram.com/iv.frunza">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+<!-- Старая версия
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -42,3 +142,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
 [![VK Основной](https://img.shields.io/badge/VK%20Основной-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/iv.frunza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iv.frunza)
+
+-->
