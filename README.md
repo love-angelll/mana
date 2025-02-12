@@ -1,6 +1,6 @@
 <!-- Новая версия -->
 
-[![Баннер](https://twam.ru/wp-content/uploads/2024/02/iuno-gasai-fioletovaia-1.webp)](ваша_ссылка_здесь) 
+[![Баннер](https://twam.ru/wp-content/uploads/2024/02/iuno-gasai-fioletovaia-1.webp)](https://github.com/love-angelll/mana) 
 
   <h1>Мана LP ღ</h1>
 
