@@ -21,42 +21,46 @@
 
   <h3>Для Ubuntu 18.04/Android Termux:</h3>
 
-    <li>Установите необходимые пакеты:
-      <pre><code>apt install git</code></pre>
-      <pre><code>apt install python3</code></pre>
-      <pre><code>apt install python3-pip</code></pre>
-    </li>
-    
-    <li>После установки проверьте версию Python:
-      <pre><code>python3 -V</code></pre>
-      Если всё установлено правильно, вы должны увидеть версию Python, как на скриншоте ниже:
-      <img src="https://user-images.githubusercontent.com/72913549/116668015-ee74cb00-a9ad-11eb-9d06-d21aca620445.png" alt="image"/>
-    </li>
+<li>Установите необходимые пакеты:
+  <ul>
+    <li><pre><code>apt install git</code></pre></li>
+    <li><pre><code>apt install python3</code></pre></li>
+    <li><pre><code>apt install python3-pip</code></pre></li>
+  </ul>
+</li>
 
-    <li>Клонируйте репозиторий:
-      <pre><code>git clone https://github.com/love-angelll/mana</code></pre>
-    </li>
+<li>После установки проверьте версию Python:
+  <ul>
+    <li><pre><code>python3 -V</code></pre></li>
+    <li>Если всё установлено правильно, вы должны увидеть версию Python, как на скриншоте ниже:</li>
+    <li><img src="https://user-images.githubusercontent.com/72913549/116668015-ee74cb00-a9ad-11eb-9d06-d21aca620445.png" alt="image"/></li>
+  </ul>
+</li>
 
-    <li>Перейдите в папку с проектом:
-      <pre><code>cd mana</code></pre>
-    </li>
+<li>Клонируйте репозиторий:
+  <pre><code>git clone https://github.com/love-angelll/mana</code></pre>
+</li>
 
-    <li>Установите зависимость vk_api:
-      <pre><code>pip3 install vk_api</code></pre>
-    </li>
+<li>Перейдите в папку с проектом:
+  <pre><code>cd mana</code></pre>
+</li>
 
-    <li>Откройте файл start.py для редактирования:
-      <pre><code>nano start.py</code></pre>
-      <img src="https://user-images.githubusercontent.com/72913549/116669158-4c55e280-a9af-11eb-9244-7b0387704088.png" alt="image"/>
-    </li>
+<li>Установите зависимость vk_api:
+  <pre><code>pip3 install vk_api</code></pre>
+</li>
 
-    <li>В файле замените токен и ID на свои. Токен можно получить <a href="https://oauth.vk.com/oauth/authorize?client_id=2685278&scope=1073737727&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1&slogin_h=60e14552e41d939e10.c9dba2c2184562e5c4&__q_hash=7d7f44c8392ed79ec099dfecdc851ea4">здесь</a>.</li>
+<li>Откройте файл start.py для редактирования:
+  <pre><code>nano start.py</code></pre>
+  <img src="https://user-images.githubusercontent.com/72913549/116669158-4c55e280-a9af-11eb-9244-7b0387704088.png" alt="image"/>
+</li>
 
-    <li>Сохраните изменения (Ctrl + S) и закройте файл (Ctrl + X).</li>
+<li>В файле замените токен и ID на свои. Токен можно получить <a href="https://oauth.vk.com/oauth/authorize?client_id=2685278&scope=1073737727&redirect_uri=https://oauth.vk.com/blank.html&display=page&response_type=token&revoke=1&slogin_h=60e14552e41d939e10.c9dba2c2184562e5c4&__q_hash=7d7f44c8392ed79ec099dfecdc851ea4">здесь</a>.</li>
 
-    <li>Запустите бота:
-      <pre><code>python3 start.py</code></pre>
-    </li>
+<li>Сохраните изменения (Ctrl + S) и закройте файл (Ctrl + X).</li>
+
+<li>Запустите бота:
+  <pre><code>python3 start.py</code></pre>
+</li> 
 
   <p>Поздравляю! Бот успешно запущен. Теперь перейдите в любую беседу и напишите команду "мана пинг", чтобы проверить работу.</p>
 
