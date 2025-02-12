@@ -1,8 +1,6 @@
 <!-- Новая версия -->
 
-<div style="width: 100%; height: 300px; background-image: url('https://twam.ru/wp-content/uploads/2024/02/iuno-gasai-fioletovaia-1.webp'); background-size: cover; background-position: center; border-radius: 10px;">
-  <a href="ваша_ссылка_здесь" style="display: block; height: 100%; width: 100%; text-decoration: none;"></a>
-</div> 
+[![Баннер](https://twam.ru/wp-content/uploads/2024/02/iuno-gasai-fioletovaia-1.webp)](ваша_ссылка_здесь) 
 
   <h1>Мана LP ღ</h1>
 
