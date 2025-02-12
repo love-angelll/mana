@@ -33,4 +33,4 @@
 
 **мана -чс** — Удаление пользователя из черного списка.
 
-![Изображение №https://github.com/love-angelll/mana/tree/main/img/6.jpg)
+![Изображение №6](https://github.com/love-angelll/mana/tree/main/img/6.jpg)
