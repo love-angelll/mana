@@ -11,28 +11,28 @@
 
 ## Основные команды:
 ```markdown
-**мана кик** — Исключение определенного пользователя из чата.
+мана кик — Исключение определенного пользователя из чата.
 ```
 ![Изображение №1](https://raw.githubusercontent.com/love-angelll/mana/main/img/1.jpg)
 ```markdown
-**мана добавить** — Добавление пользователя в чат.
+мана добавить — Добавление пользователя в чат.
 ```
 ![Изображение №2](https://raw.githubusercontent.com/love-angelll/mana/main/img/2.jpg)
 ```markdown
-**мана +др** — Добавление пользователя в друзья.
+мана +др — Добавление пользователя в друзья.
 ```
 ![Изображение №3](https://raw.githubusercontent.com/love-angelll/mana/main/img/3.jpg)
-
-**мана -др** — Удаление пользователя из друзей.
-
+```markdown
+мана -др — Удаление пользователя из друзей.
+```
 ![Изображение №4](https://raw.githubusercontent.com/love-angelll/mana/main/img/4.jpg)
-
-**мана +чс** — Добавление пользователя в черный список.
-
+```markdown
+мана +чс — Добавление пользователя в черный список.
+```
 ![Изображение №5](https://raw.githubusercontent.com/love-angelll/mana/main/img/6.jpg)
-
-**мана -чс** — Удаление пользователя из черного списка.
-
+```markdown
+мана -чс — Удаление пользователя из черного списка.
+```
 ![Изображение №6](https://raw.githubusercontent.com/love-angelll/mana/main/img/5.jpg)
 
 
