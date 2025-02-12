@@ -21,7 +21,6 @@
 
   <h3>Для Ubuntu 18.04/Android Termux:</h3>
 
-  <ol>
     <li>Установите необходимые пакеты:
       <pre><code>apt install git</code></pre>
       <pre><code>apt install python3</code></pre>
@@ -58,7 +57,6 @@
     <li>Запустите бота:
       <pre><code>python3 start.py</code></pre>
     </li>
-  </ol>
 
   <p>Поздравляю! Бот успешно запущен. Теперь перейдите в любую беседу и напишите команду "мана пинг", чтобы проверить работу.</p>
 
