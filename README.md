@@ -1,10 +1,9 @@
 <!-- Новая версия -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div style="width: 100%; height: 300px; background-image: url('https://twam.ru/wp-content/uploads/2024/02/iuno-gasai-fioletovaia-1.webp'); background-size: cover; background-position: center; border-radius: 10px;">
+  <a href="#" style="display: block; height: 100%; width: 100%;"></a>
+</div> 
 
-<div>
   <h1>Мана LP ღ</h1>
 
   <blockquote>
